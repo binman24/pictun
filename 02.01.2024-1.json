@@ -1,0 +1,25 @@
+{
+    "name": "Blake Adkins",
+    "age": 59,
+    "address": {
+        "street": "Chad Plains",
+        "city": "Randallville",
+        "state": "South Carolina",
+        "zip": "09619"
+    },
+    "contact": {
+        "phone": "672.435.4534",
+        "servicePhone": "800922796"
+    },
+    "birthday": "1966-23-01",
+    "ip": "126.154.99.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Training different person personal risk hear. Party government ready hospital training special put. Other run political else truth author than.",
+        "bio": "Kind value medical house offer plan during campaign. Current design power unit ever. Reason yourself item."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
