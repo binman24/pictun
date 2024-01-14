@@ -1,0 +1,25 @@
+{
+    "name": "Jason Petersen",
+    "age": 38,
+    "address": {
+        "street": "Peter Pass",
+        "city": "North Christinebury",
+        "state": "New Mexico",
+        "zip": "12636"
+    },
+    "contact": {
+        "phone": "7617413169",
+        "servicePhone": "800015354"
+    },
+    "birthday": "1987-17-03",
+    "ip": "188.45.107.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Police bank oil spring. Catch suggest arm by.\nHalf response focus put recently whom. Grow memory with relate quickly.\nJoin music listen team method decide own. Land agree education accept type.",
+        "bio": "Audience bit about spend father doctor. Because both prepare performance ability. Lead memory alone boy.\nPopulation pass many he. Almost control fire."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
