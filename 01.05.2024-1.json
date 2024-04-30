@@ -1,0 +1,25 @@
+{
+    "name": "Sheila Manning",
+    "age": 88,
+    "address": {
+        "street": "Hill Ports",
+        "city": "Leblancland",
+        "state": "New Hampshire",
+        "zip": "72156"
+    },
+    "contact": {
+        "phone": "5615906575",
+        "servicePhone": "800987221"
+    },
+    "birthday": "1937-26-01",
+    "ip": "67.201.2.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Sometimes trial time phone. Find ahead you how cover service.\nEconomic but suggest prepare. Relationship run bar deep. Group actually happen he vote color. Discuss bag moment check.",
+        "bio": "Give yeah you song generation decision. By newspaper detail chair."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
