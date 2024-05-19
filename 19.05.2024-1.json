@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Jones",
+    "age": 19,
+    "address": {
+        "street": "Barry Highway",
+        "city": "Sharonport",
+        "state": "Pennsylvania",
+        "zip": "25076"
+    },
+    "contact": {
+        "phone": "+1-744-240-6021x32893",
+        "servicePhone": "800743271"
+    },
+    "birthday": "2006-26-11",
+    "ip": "173.184.83.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Only black world couple.\nDeep east nation what how under technology. Month raise arrive.",
+        "bio": "Agent attention positive purpose near recent little. Good kid score media action nearly home.\nWork important trade enter. Student professional often unit reveal.\nFire federal region huge to."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
