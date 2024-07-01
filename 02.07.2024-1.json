@@ -1,0 +1,25 @@
+{
+    "name": "David Love",
+    "age": 105,
+    "address": {
+        "street": "Duffy Road",
+        "city": "Trevinoborough",
+        "state": "Alabama",
+        "zip": "66324"
+    },
+    "contact": {
+        "phone": "+1-369-404-2303x03084",
+        "servicePhone": "800232297"
+    },
+    "birthday": "1920-24-09",
+    "ip": "101.69.50.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Reflect above he education sit stock. Read trade place clear rather sign stock. List another until whether.\nAnything better she keep add crime whom no. Along investment knowledge attorney.",
+        "bio": "Agree last interesting. Able news eight generation bring could data.\nServe scientist medical stock which understand already. Age my we need."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
