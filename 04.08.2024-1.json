@@ -1,0 +1,25 @@
+{
+    "name": "Richard Tucker",
+    "age": 3,
+    "address": {
+        "street": "Vega Expressway",
+        "city": "West Denise",
+        "state": "Texas",
+        "zip": "43262"
+    },
+    "contact": {
+        "phone": "676.512.9642x4538",
+        "servicePhone": "800364979"
+    },
+    "birthday": "2022-05-06",
+    "ip": "181.243.112.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Commercial particularly another option good when despite. Be almost leg. National rich keep big article system his.",
+        "bio": "Me meeting rich these fly. Pick mouth arrive score property phone turn. Job business option every play now.\nLevel leave just middle sport hit ok spring.\nValue include enough figure. Two after take."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
