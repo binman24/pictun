@@ -1,0 +1,25 @@
+{
+    "name": "Jose Clark",
+    "age": 14,
+    "address": {
+        "street": "Morse Parkways",
+        "city": "West Richardport",
+        "state": "Illinois",
+        "zip": "40301"
+    },
+    "contact": {
+        "phone": "+1-338-553-0777x94832",
+        "servicePhone": "800788406"
+    },
+    "birthday": "2011-24-03",
+    "ip": "96.103.101.113",
+    "foo": "bar",
+    "profile": {
+        "about": "My west fight quite capital PM level. Reason allow life look green.\nTrade policy question discover treatment.\nPlayer series their center unit. Until huge window range land industry.",
+        "bio": "Soon us apply like on. Fund even occur seven.\nProduct create network high various. Imagine skin method wonder language. Same make prepare modern."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
