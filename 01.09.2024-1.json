@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Edwards",
+    "age": 108,
+    "address": {
+        "street": "Lyons Mountain",
+        "city": "Martinville",
+        "state": "New Mexico",
+        "zip": "83211"
+    },
+    "contact": {
+        "phone": "001-755-382-5539x211",
+        "servicePhone": "800174322"
+    },
+    "birthday": "1917-06-07",
+    "ip": "170.252.121.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Security actually somebody gun treat rather employee. Worker word will our nation market it. Successful field speech amount until vote society.",
+        "bio": "Glass term both several. Guess try growth particular evidence.\nEnvironment bed issue last.\nCarry score tonight leg daughter. Get field administration million. Ten again foot practice one."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
