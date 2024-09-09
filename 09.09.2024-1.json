@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Tucker",
+    "age": 34,
+    "address": {
+        "street": "Chambers Route",
+        "city": "Hallton",
+        "state": "New Jersey",
+        "zip": "84403"
+    },
+    "contact": {
+        "phone": "541-217-2113x08462",
+        "servicePhone": "800300121"
+    },
+    "birthday": "1991-18-05",
+    "ip": "126.211.13.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Star stuff design law current open pattern protect. Physical one cut eight. I agreement still plant wide those themselves.",
+        "bio": "There travel their page before according election. Practice care bed score size move not. Natural imagine trade learn fire outside police."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
