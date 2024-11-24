@@ -1,0 +1,25 @@
+{
+    "name": "Travis Johnson Jr.",
+    "age": 29,
+    "address": {
+        "street": "Yolanda Camp",
+        "city": "Lake Peter",
+        "state": "Michigan",
+        "zip": "81075"
+    },
+    "contact": {
+        "phone": "+1-554-956-0076x493",
+        "servicePhone": "800958643"
+    },
+    "birthday": "1996-10-04",
+    "ip": "82.230.6.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Stop total relationship table fire notice. Mean spring mean add.\nWell yes future professor left. Bar minute do drop about a. Performance eat language song price. Sing necessary company of.",
+        "bio": "Truth despite character term piece. Such week different read should return."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
