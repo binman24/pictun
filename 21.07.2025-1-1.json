@@ -1,0 +1,25 @@
+{
+    "name": "Henry Rodriguez",
+    "age": 28,
+    "address": {
+        "street": "Johnson Ville",
+        "city": "North Veronicaview",
+        "state": "Vermont",
+        "zip": "26008"
+    },
+    "contact": {
+        "phone": "377.926.1664",
+        "servicePhone": "800432428"
+    },
+    "birthday": "1997-01-01",
+    "ip": "204.191.222.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Box strong from make spend matter city.\nCentury national brother scene. There television religious wrong various ball. Account push sport my.",
+        "bio": "Fast close drug.\nLarge easy prepare east seem. Service security focus recent. Represent produce major health practice join successful really. Per system expect available yeah like Republican."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
