@@ -1,0 +1,25 @@
+{
+    "name": "Devon Gonzalez",
+    "age": 1,
+    "address": {
+        "street": "Haynes Flats",
+        "city": "South Ryan",
+        "state": "Nevada",
+        "zip": "96399"
+    },
+    "contact": {
+        "phone": "523.783.7458x12884",
+        "servicePhone": "800436901"
+    },
+    "birthday": "2024-16-01",
+    "ip": "107.123.162.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Listen impact agent sit.\nSide not always from. Responsibility space situation thousand stop. Value city event later second all though relationship.",
+        "bio": "Design seat western real power enough. Size there book among. Probably how year certainly discover.\nRun share garden century or. Man others very charge. Ready author full truth environmental big."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
