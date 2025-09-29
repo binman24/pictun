@@ -1,0 +1,25 @@
+{
+    "name": "Mary Olsen",
+    "age": 56,
+    "address": {
+        "street": "Tran Streets",
+        "city": "Port Melinda",
+        "state": "South Carolina",
+        "zip": "77448"
+    },
+    "contact": {
+        "phone": "665.907.6985",
+        "servicePhone": "800784366"
+    },
+    "birthday": "1969-25-07",
+    "ip": "72.120.172.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Culture somebody sense deal section race try speech. Mission enough perhaps his institution military. Keep produce live defense.\nCamera good exactly worry.",
+        "bio": "Defense imagine maybe information miss street. Reduce time relate several nearly will over. Floor cost police offer whole reality effort whether."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}

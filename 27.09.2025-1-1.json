@@ -1,0 +1,25 @@
+{
+    "name": "James Horne",
+    "age": 41,
+    "address": {
+        "street": "Perry Loaf",
+        "city": "North Brandimouth",
+        "state": "Wisconsin",
+        "zip": "54451"
+    },
+    "contact": {
+        "phone": "230.530.6177",
+        "servicePhone": "800780841"
+    },
+    "birthday": "1984-15-06",
+    "ip": "146.35.90.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Skill focus lot care. Father activity fire send figure let.\nRelationship she consumer. Remain society start.",
+        "bio": "Far live middle matter current campaign lead. Blue cover magazine again response.\nTend because carry tough before. Painting night fill oil travel office safe."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}

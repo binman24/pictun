@@ -1,0 +1,25 @@
+{
+    "name": "Kent Jones",
+    "age": 14,
+    "address": {
+        "street": "Houston Forest",
+        "city": "Herreraside",
+        "state": "Pennsylvania",
+        "zip": "26928"
+    },
+    "contact": {
+        "phone": "+1-968-837-5713",
+        "servicePhone": "800797565"
+    },
+    "birthday": "2011-09-03",
+    "ip": "183.253.16.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Speech seek quickly. Rise marriage kind. Window specific do certain reflect recently line.\nEast seem thing southern middle recent system hair. Writer over plant hospital use country.",
+        "bio": "Night take under account black without. Table rate apply where car."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
